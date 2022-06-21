@@ -1,5 +1,5 @@
 # WHOAMI
-My name is Matt Krause a Senior CE at Microsoft focused on Exchange, Security and Compliance, PowerShell and Microsoft Graph API.
+My name is Matt Krause. I'm a Senior Product Manager on the Microsoft Graph team at Microsoft.
 
 Here, I mostly work on Microsoft Graph API development using PowerShell. I've also started looking into C# .NET development, spending some of my limited free time working on that.
 
