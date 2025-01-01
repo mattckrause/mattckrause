@@ -4,6 +4,6 @@ My name is Matt Krause. I'm a Senior Product Manager on the Copilot Extensibilit
 Here, I mostly work on Microsoft Graph API development. 
 
 You can follow me at: 
-- [Threads](https://www.threads.net/@mattckrause)
+- [Bluesky](https://bsky.social/@mattckrause.com)
 - [LinkedIn](https://www.linkedin.com/in/matthew-krause/)
 
