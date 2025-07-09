@@ -1,5 +1,5 @@
 # WHOAMI
-My name is Matt Krause. I'm a Senior Product Manager on the Copilot Extensibility team at Microsoft.
+My name is Matt Krause. I'm a Senior Product Manager at Microsoft working on Copilot Extensibility.
 
 Here, I mostly work on Microsoft Graph API development. 
 
